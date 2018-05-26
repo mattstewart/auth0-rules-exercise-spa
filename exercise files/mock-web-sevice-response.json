@@ -1,0 +1,23 @@
+[  
+   {  
+      "groups":[  
+         "admin",
+         "user"
+      ],
+      "email":"email1@domain.com"
+   },
+   {  
+      "groups":[  
+         "admin",
+         "user"
+      ],
+      "email":"email2@domain.com"
+   },
+   {  
+      "groups":[  
+         "super user",
+         "user"
+      ],
+      "email":"YOUR_EMAIL"
+   }
+]
